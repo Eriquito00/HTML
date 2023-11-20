@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: "fuente";
+    src: url(../fuente/fuente.ttf);
+}
+body{
+    background-image: url(../imagenes/fondo.jpg);
+    cursor: url(../imagenes/cursor.png), pointer;
+    backface-visibility: hidden;
+}
+
+.cuadrojuego{
+    height: 700px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
+    text-align: center;
+}
+
+.titulojuego, .info{
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 15px;
+    font-family: "fuente";
+}
+
+.cuadricula{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 2px;
+}
+
+.cuadrado{
+    width:150px;
+    height: 150px;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    transition: background-color ease-in 0.3s;
+    font-size: 100px;
+    font-family: "fuente";
+}
+
+.cuadrado:hover{
+    background-color: yellow;
+}
+
+.boton{
+    display:inline-flex;
+    padding: 18px 18px;
+    background: greenyellow;
+    color: white;
+    cursor: pointer;
+    justify-content: center;
+    font-weight: bold;
+    transition:color ease-out 0.3s;
+    font-size: 20px;
+    font-family: "fuente";
+    position: absolute;
+    top: 90%;
+    right: 42%;
+    left: 42%;
+}
+
+.boton:hover{
+    background:white ;
+    color: green;
+    border: 1px solid green;
+}
+
+.mensaje {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
