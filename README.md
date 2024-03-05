@@ -10,3 +10,5 @@
 Para que los proyectos funcionen correctamente tenemos que abrir segun las instrucciones que dice cada proyecto que queramos ver, EN TODOS LOS PROYECTOS DICE QUAL DE TODOS LOS ARCHIVOS HTML HAY QUE ABRIR.
 
 PARA QUE FUNCIONE EL CODIGO HACE FALTA DESCARGAR TODO EL PROYECTO.
+
+![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/htmlcssjs.png)
