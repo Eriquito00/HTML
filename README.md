@@ -12,3 +12,8 @@ Para que los proyectos funcionen correctamente tenemos que abrir segun las instr
 PARA QUE FUNCIONE EL CODIGO HACE FALTA DESCARGAR TODO EL PROYECTO.
 
 ![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/htmlcssjs.png)
+
+<center>
+  <h2>Support me</h2>
+  <a href="https://www.buymeacoffee.com/eriquito00"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+</center>
