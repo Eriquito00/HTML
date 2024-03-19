@@ -11,7 +11,9 @@ Para que los proyectos funcionen correctamente tenemos que abrir segun las instr
 
 PARA QUE FUNCIONE EL CODIGO HACE FALTA DESCARGAR TODO EL PROYECTO.
 
-![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/htmlcssjs.png)
+![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/html.png)
+![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/css.png)
+![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/js.png)
 
 <center>
   <h2>Support me</h2>
